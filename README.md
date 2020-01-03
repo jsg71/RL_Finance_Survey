@@ -4,10 +4,6 @@ Gathering material for a survey paper in RL finance
 # Table of contents
 * [Quote](#Quote)
 * [RL](#RL)
-* [DL, Online and Bandits](#DL-Online-and-Bandits)
-* [Classic Portfolio Selection Materials](#Classic-Portfolio-Selection-Materials)
-* [Machine Learning based Portfolio Selection](#Machine-Learning-based-Portfolio-Selection)
-
 
 # Quote
 
