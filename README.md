@@ -71,4 +71,6 @@ Pricing - MSc](https://core.ac.uk/download/pdf/39674013.pdf), Martin (2014).
 * [Model-based Reinforcement Learning for Predictions and Control for Limit Order Books](https://arxiv.org/pdf/1910.03743.pdf), Wei et al. (2019). 
 * [Practical Deep Reinforcement Learning Approach for
 Stock Trading](https://arxiv.org/pdf/1811.07522.pdf), Xiong et al. (2018).
+* [Deep Robust Reinforcement Learning for
+Practical Algorithmic Trading](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8786132), Li et al. (2019).
 
